@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rules>
+	<logical><clocation>1</clocation><tarea>1</tarea><command>go_inside</command></logical>
+	<logical><clocation>1</clocation><tarea>2</tarea><command>go_straight</command></logical>
+	<logical><clocation>1</clocation><tarea>3</tarea><command>go_straight</command></logical>
+	<logical><clocation>1</clocation><tarea>4</tarea><command>go_straight</command></logical>
+	<logical><clocation>1</clocation><tarea>5</tarea><command>go_straight</command></logical>
+	<logical><clocation>1</clocation><tarea>6</tarea><command>go_straight</command></logical>
+	
+	<logical><clocation>2</clocation><tarea>2</tarea><command>go_inside</command></logical>
+	<logical><clocation>2</clocation><tarea>3</tarea><command>go_straight</command></logical>
+	<logical><clocation>2</clocation><tarea>4</tarea><command>go_straight</command></logical>
+	<logical><clocation>2</clocation><tarea>5</tarea><command>go_straight</command></logical>
+	<logical><clocation>2</clocation><tarea>6</tarea><command>go_straight</command></logical>
+	
+	<logical><clocation>3</clocation><tarea>3</tarea><command>go_inside</command></logical>
+	<logical><clocation>3</clocation><tarea>4</tarea><command>go_straight</command></logical>
+	<logical><clocation>3</clocation><tarea>5</tarea><command>go_straight</command></logical>
+	<logical><clocation>3</clocation><tarea>6</tarea><command>go_straight</command></logical>
+	
+	<logical><clocation>4</clocation><tarea>4</tarea><command>go_inside</command></logical>
+	<logical><clocation>4</clocation><tarea>5</tarea><command>go_straight</command></logical>
+	<logical><clocation>4</clocation><tarea>6</tarea><command>go_straight</command></logical>
+	
+	<logical><clocation>5</clocation><tarea>5</tarea><command>go_inside</command></logical>
+	<logical><clocation>5</clocation><tarea>6</tarea><command>go_straight</command></logical>
+	
+	<logical><clocation>6</clocation><tarea>6</tarea><command>go_inside</command></logical>
+	
+</rules>

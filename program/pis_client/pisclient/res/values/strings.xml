@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PIS Client</string>
+    <string name="settings">Settings</string>
+    <string name="tittle_app">Parking Information System</string>
+    <string name="car_location">Parked</string>
+    <string name="guide_parked_car">Park Guide</string>
+    <string name="text_notify">Mr. Choi has parked his car in PLACE: Lotte Mart, Gunsan City, FLOOR: 3rd floor, AREA: H, SLOT NO.: 5</string>
+    <string name="locate_car">Locate Car</string>
+    <string name="reset_notify">Clear</string>
+    <string name="car_log_records">Park Log</string>
+    <string name="reset_connection">Reset</string>
+    <string name="collision">Car Collision</string>
+    <string name="text_moteid"></string>
+    
+    <string name="tittle_guide">Parking Guidance System</string>
+    <string name="text_close_guide">Exit</string>
+    <string name="recommended_parking_area">Recommended area:</string>
+    <string name="area_description">Available slot: Description area: </string>
+    <string name="recommended_parking_area_input">Area 1</string>
+    <string name="activate_collision_sense">Collision Sense</string>
+    <string name="pis_close">Close</string>
+    <string name="current_location_area">Current location:</string>
+    <string name="view_collision">Collision Images</string>
+    <string name="get_direction">Get Direction</string>
+    <string name="connect">Connect</string>
+    
+</resources>

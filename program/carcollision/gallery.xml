@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<simpleviewergallery 
+
+	useFlickr="false"
+	resizeOnImport="true"
+	cropToFit="true"
+	thumbPosition="LEFT"
+
+>
+  <image imageURL="images/0.png"
+	thumbURL="thumbs/0.png"
+	linkURL="images/0.png"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1.png"
+	thumbURL="thumbs/1.png"
+	linkURL="images/1.png"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/2.png"
+	thumbURL="thumbs/2.png"
+	linkURL="images/2.png"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/3.png"
+	thumbURL="thumbs/3.png"
+	linkURL="images/3.png"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/4.png"
+	thumbURL="thumbs/4.png"
+	linkURL="images/4.png"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/5.png"
+	thumbURL="thumbs/5.png"
+	linkURL="images/5.png"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/6.png"
+	thumbURL="thumbs/6.png"
+	linkURL="images/6.png"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/7.png"
+	thumbURL="thumbs/7.png"
+	linkURL="images/7.png"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/8.png"
+	thumbURL="thumbs/8.png"
+	linkURL="images/8.png"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/9.png"
+	thumbURL="thumbs/9.png"
+	linkURL="images/9.png"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+</simpleviewergallery>

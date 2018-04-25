@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AbsoluteLayout android:id="@+id/AbsoluteLayout01" 
+android:layout_width="fill_parent" 
+android:layout_height="fill_parent" 
+xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <EditText android:text="@string/text_notify" android:scrollbars="vertical" android:id="@+id/edit_text_notify" android:layout_y="49dp" android:layout_height="152dp" android:layout_width="296dp" android:layout_x="9dp">
+        <requestFocus></requestFocus>
+    </EditText>
+	<TextView android:layout_height="wrap_content" android:layout_width="wrap_content" android:id="@+id/lbl_tittle" android:text="@string/tittle_app" android:textAppearance="?android:attr/textAppearanceMedium" android:layout_x="52dp" android:layout_y="16dp"></TextView>
+
+	<Button
+	    android:id="@+id/btn_car_log_records"
+	    android:layout_width="85dp"
+	    android:layout_height="wrap_content"
+	    android:layout_x="195dp"
+	    android:layout_y="212dp"
+	    android:text="@string/car_log_records" > </Button>
+
+	<Button
+	    android:id="@+id/btn_reset_notify"
+	    android:layout_width="85dp"
+	    android:layout_height="wrap_content"
+	    android:layout_x="111dp"
+	    android:layout_y="213dp"
+	    android:text="@string/reset_notify" ></Button>
+
+	<EditText
+	    android:id="@+id/text_input_motion_no"
+	    android:layout_width="170dp"
+	    android:layout_height="wrap_content"
+	    android:layout_x="70dp"
+	    android:layout_y="264dp"
+	    android:scrollbars="vertical"
+	    android:text="@string/text_moteid" ></EditText>
+
+	<Button
+	    android:id="@+id/btn_pis_close"
+	    android:layout_width="85dp"
+	    android:layout_height="wrap_content"
+	    android:layout_x="199dp"
+	    android:layout_y="378dp"
+	    android:text="@string/pis_close" />
+
+	<Button
+	    android:id="@+id/btn_view_collision"
+	    android:layout_width="85dp"
+	    android:layout_height="wrap_content"
+	    android:layout_x="113dp"
+	    android:layout_y="375dp"
+	    android:text="@string/view_collision" />
+
+	<Button
+	    android:id="@+id/btn_activate_collision"
+	    android:layout_width="85dp"
+	    android:layout_height="wrap_content"
+	    android:layout_x="30dp"
+	    android:layout_y="318dp"
+	    android:text="@string/activate_collision_sense" />
+
+	<Button
+	    android:id="@+id/btn_guide_parked_car"
+	    android:layout_width="85dp"
+	    android:layout_height="wrap_content"
+	    android:layout_x="116dp"
+	    android:layout_y="316dp"
+	    android:text="@string/guide_parked_car" />
+
+	<Button
+	    android:id="@+id/btn_car_locate"
+	    android:layout_width="85dp"
+	    android:layout_height="wrap_content"
+	    android:layout_x="30dp"
+	    android:layout_y="372dp"
+	    android:text="@string/locate_car" />
+
+	<Button
+	    android:id="@+id/btn_settings"
+	    android:layout_width="85dp"
+	    android:layout_height="wrap_content"
+	    android:layout_x="206dp"
+	    android:layout_y="316dp"
+	    android:text="@string/settings" />
+
+	<Button
+	    android:id="@+id/btn_connect"
+	    android:layout_width="85dp"
+	    android:layout_height="wrap_content"
+	    android:layout_x="27dp"
+	    android:layout_y="212dp"
+	    android:text="@string/connect" />
+
+</AbsoluteLayout>
